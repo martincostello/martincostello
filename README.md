@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**martincostello/martincostello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Martin, and I'm a software developer and tester based in London.
 
-Here are some ideas to get you started:
+I've been working in software development since 2006. My experience is primarily with C# and ASP.NET and related technologies, as well Cloud infrastructure on Azure and AWS. I've also been a [Microsoft MVP in Developer Technologies]( https://mvp.microsoft.com/en-us/PublicProfile/5003438 "My MVP profile") since 2019.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes I blog about programming stuff here: [blog.martincostello.com](https://blog.martincostello.com/ "My blog")
+
+### Projects
+
+As well as my own projects, some of which are pinned below, I also contribute to other parts of the open source ecosystem.
+
+I help maintain the projects of the [aspnet-contrib](https://github.com/aspnet-contrib "The aspnet-contrib org on GitHub.com") organization, .NET projects for my employer [Just Eat](https://github.com/justeat "The Just Eat org on GitHub.com"), and sometimes contribute to the projects for .NET and ASP.NET.
+
+### Contact
+
+You can find me on Twitter [@martin_costello](https://twitter.com/martin_costello "My Twitter profile") 🐦, as well as via the email associated with my Git commits 📧.
