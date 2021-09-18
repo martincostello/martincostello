@@ -10,7 +10,7 @@ Sometimes I blog about programming stuff here: [blog.martincostello.com](https:/
 
 As well as my own projects, some of which are pinned below, I also contribute to other parts of the open source ecosystem.
 
-I help maintain the projects of the [aspnet-contrib](https://github.com/aspnet-contrib "The aspnet-contrib org on GitHub.com") organization, .NET projects for my employer [Just Eat](https://github.com/justeat "The Just Eat org on GitHub.com"), and sometimes contribute to the projects for .NET and ASP.NET.
+I help maintain the projects of the [aspnet-contrib](https://github.com/aspnet-contrib "The aspnet-contrib org on GitHub.com") organization, .NET projects for my employer [Just Eat](https://github.com/justeat "The Just Eat org on GitHub.com"), and sometimes contribute to the projects for .NET and ASP.NET Core.
 
 ### Contact
 
