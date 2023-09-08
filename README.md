@@ -14,4 +14,4 @@ I help maintain the projects of the [aspnet-contrib](https://github.com/aspnet-c
 
 ### Contact
 
-You can find me on Twitter [@martin_costello](https://twitter.com/martin_costello "My Twitter profile") 🐦, as well as via the email associated with my Git commits 📧.
+If you want to contact me about something outside the scope of GitHub Issues within one of my repositories, you can find me on Twitter [@martin_costello](https://twitter.com/martin_costello "My Twitter profile") 🐦, as well as via the email associated with my Git commits 📧.
