@@ -4,7 +4,7 @@ My name is Martin, and I'm a software developer and tester based near London.
 
 I've been working in software development since 2006. My experience is primarily with C# and ASP.NET and related technologies, as well Cloud infrastructure on Azure and AWS. I've also been a [Microsoft MVP in Developer Technologies](https://martincostello.com/mvp "My MVP profile") since 2019.
 
-Sometimes I blog about programming stuff on my blog at [blog.martincostello.com](https://blog.martincostello.com/ "My blog").
+Sometimes I blog about programming stuff [on my blog](https://blog.martincostello.com/ "My blog").
 
 ### Projects
 
@@ -14,4 +14,4 @@ I help maintain the projects of the [aspnet-contrib](https://github.com/aspnet-c
 
 ### Contact
 
-If you want to contact me about something outside the scope of GitHub Issues within one of my repositories, you can find me on Bluesky [@martincostello.com](https://martincostello.com/bluesky "My Bluesky profile") 🦋, as well as via the email associated with my Git commits 📧.
+If you want to contact me about something outside the scope of GitHub Issues within one of my repositories, you can find me [on Bluesky](https://martincostello.com/bluesky "My Bluesky profile") 🦋, as well as via the email associated with my Git commits 📧.
