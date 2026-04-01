@@ -2,7 +2,7 @@
 
 My name is Martin, and I'm a software developer and tester based near London.
 
-I'm currently a Staff Software Engineer at [Grafana Labs][grafana] working on OpenTelemetry SDKs. 🔭
+I'm currently a Staff Software Engineer at [Grafana Labs][grafana] working on the [.NET OpenTelemetry SDK][otel]. 🔭
 
 I've been working in software development since 2006. My experience is primarily with C# and ASP.NET and related technologies, as
 well as Cloud infrastructure on Azure and AWS. I've also been a [Microsoft MVP in Developer Technologies][mvp] since 2019.
@@ -26,5 +26,6 @@ can find me [on Bluesky][bluesky] 🦋, or via the email associated with my Git 
 [bluesky]: https://martincostello.com/bluesky "My Bluesky profile"
 [grafana]: https://grafana.com/ "Grafana"
 [mvp]: https://martincostello.com/mvp "My MVP profile"
+[otel]: https://github.com/open-telemetry/opentelemetry-dotnet "The OpenTelemetry .NET Client"
 [polly]: https://github.com/App-vNext/Polly "Polly on GitHub.com"
 [swashbuckle]: https://github.com/domaindrivendev/Swashbuckle.AspNetCore "Swashbuckle.AspNetCore on GitHub.com"
