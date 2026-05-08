@@ -2,7 +2,7 @@
 
 My name is Martin, and I'm a software developer and tester based near London.
 
-I'm currently a Staff Software Engineer at [Grafana Labs][grafana] working on the [.NET OpenTelemetry SDK][otel]. 🔭
+I'm currently a Staff Software Engineer at [Grafana Labs][grafana] working on the [.NET OpenTelemetry SDK][otel-core]. 🔭
 
 I've been working in software development since 2006. My experience is primarily with C# and ASP.NET and related technologies, as
 well as Cloud infrastructure on Azure and AWS. I've also been a [Microsoft MVP in Developer Technologies][mvp] since 2019.
@@ -13,8 +13,15 @@ Sometimes I blog about programming stuff [on my blog][blog].
 
 As well as my own projects, some of which are pinned below, I also contribute to other parts of the open source ecosystem.
 
-I help maintain the projects of the [aspnet-contrib][aspnet-contrib] organization, [Polly][polly], [Swashbuckle.AspNetCore][swashbuckle], and
-sometimes contribute to the projects for .NET and ASP.NET Core.
+I help maintain the following .NET open source projects:
+
+- [aspnet-contrib][aspnet-contrib]
+- [open-telemetry/opentelemetry-dotnet][otel-core]
+- [open-telemetry/opentelemetry-dotnet-contrib][otel-contrib]
+- [Polly][polly]
+- [Swashbuckle.AspNetCore][swashbuckle]
+
+I also sometimes contribute to the projects for .NET and ASP.NET Core.
 
 ### Contact
 
@@ -26,6 +33,7 @@ can find me [on Bluesky][bluesky] 🦋, or via the email associated with my Git 
 [bluesky]: https://martincostello.com/bluesky "My Bluesky profile"
 [grafana]: https://grafana.com/ "Grafana"
 [mvp]: https://martincostello.com/mvp "My MVP profile"
-[otel]: https://github.com/open-telemetry/opentelemetry-dotnet "The OpenTelemetry .NET Client"
+[otel-contrib]: https://github.com/open-telemetry/opentelemetry-dotnet-contrib "OpenTelemetry .NET SDK components"
+[otel-core]: https://github.com/open-telemetry/opentelemetry-dotnet "The OpenTelemetry .NET Client"
 [polly]: https://github.com/App-vNext/Polly "Polly on GitHub.com"
 [swashbuckle]: https://github.com/domaindrivendev/Swashbuckle.AspNetCore "Swashbuckle.AspNetCore on GitHub.com"
